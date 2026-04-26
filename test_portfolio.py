@@ -1,6 +1,6 @@
 import unittest
 # Pakeitėme importą, kad jis atitiktų tavo failo pavadinimą
-from COURSEEEEEEEE import PortfolioManager, Stock, Crypto
+from OOPCoursework import PortfolioManager, Stock, Crypto
 
 class TestFinancialPortfolio(unittest.TestCase):
     def setUp(self):
